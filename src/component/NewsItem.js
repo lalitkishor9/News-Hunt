@@ -9,7 +9,7 @@ export class NewsItem extends Component {
         <div className="card" >
         <span className="position-absolute top-0  translate-middle  bg-success text-light  rounded " style={{left:"85%" , zIndex:1, fontSize:"12px"}}>{source}
           </span>
-        <img src={imageUrl?imageUrl:"no_image.png"} className="card-img-top" alt="..."/>
+        <img src={imageUrl?imageUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKivvwviZEIWSn37AktW02XYUiufInNC35dQ&usqp=CAU"} className="card-img-top" alt="..."/>
         <div className="card-body">
           <h5 className="card-title">{title}</h5>
           
