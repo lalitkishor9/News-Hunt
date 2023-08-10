@@ -3,6 +3,7 @@
 News-Hunt is a modern and user-friendly web application built with React that provides the latest news from various categories. Stay informed about current events, sports, technology, entertainment, and much more. With News-Hunt, you can easily browse news articles, search for specific topics, and stay up-to-date with the world's happenings.
 
 ![NewsByte Screenshot](./public/screenshot.png)
+![NewsByte Screenshot](./public/logo192.png)
 
 ## Features
 
