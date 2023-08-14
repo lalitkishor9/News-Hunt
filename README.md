@@ -26,7 +26,7 @@ Follow these steps to set up NewsByte locally:
 1. Clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your_username/News-Hunt.git
+git clone https://github.com/username/News-Hunt.git
 ```
 
 2. Navigate to the project directory:
