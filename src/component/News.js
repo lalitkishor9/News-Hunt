@@ -73,7 +73,7 @@ export class News extends Component
           // loader={ <Spinner />}
           endMessage={
             <p style={{ textAlign: 'center' }}>
-              <b>Reached to the end</b>
+              <b>Reached At the end</b>
             </p>
           }
           
